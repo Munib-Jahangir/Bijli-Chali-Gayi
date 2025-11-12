@@ -30,7 +30,7 @@ Just 3 simple steps, but challenging:
 3.  ⚙️ **Start the Generator:** Pour the fuel and activate the generator!
 
 ✅ **Victory:** If you succeed - light returns.
-❌ **Defeat:** If you fail - darkness consumes everything.
+❌ **Defeat:** If you fail - darkness Drama End.
 
 ---
 
