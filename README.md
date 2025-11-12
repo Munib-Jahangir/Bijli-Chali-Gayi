@@ -1,4 +1,4 @@
-# ⚡ BIJLI CHALI GAYI ⚡
+<h1 align="center">⚡ BIJLI CHALI GAYI ⚡</h1>
 
 <p align="center">
   <img src="./logo.png" alt="Bijli Chali Gayi Logo" width="250"/>
